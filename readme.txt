@@ -6,7 +6,7 @@ Git  is free software.
 i was changed
 i was first  change
 i was second change,zhiyou diyicide change add,second weitijiao
-1
+1 was fourth change.
 2
 3
 4
