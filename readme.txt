@@ -7,7 +7,7 @@ i was changed
 i was first  change
 i was second change,zhiyou diyicide change add,second weitijiao
 1 was fourth change.
-2
+2 create a new branch is quick & simple.
 3
 4
 5
