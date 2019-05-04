@@ -7,7 +7,11 @@ i was changed
 i was first  change
 i was second change,zhiyou diyicide change add,second weitijiao
 1 was fourth change.
+<<<<<<< HEAD
 2 create a new branch is quick & simple.
+=======
+2 was five change
+>>>>>>> featurel
 3
 4
 5
